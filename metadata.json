@@ -1,0 +1,5 @@
+{
+  "name": "PixelMagic AI",
+  "description": "An intelligent image editor powered by Gemini 2.5 Flash. Upload an image and use natural language text prompts to edit, transform, or fix your photos instantly.",
+  "requestFramePermissions": []
+}
